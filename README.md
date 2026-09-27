@@ -1,4 +1,5 @@
 # 🤖 AI-Powered HR Onboarding Buddy
+<img width="1068" height="672" alt="image" src="https://github.com/user-attachments/assets/26b1b77a-b926-4ed8-88af-122e3c197700" />
 
 Sistem tanya jawab otomatis (Chatbot) berbasis kecerdasan buatan yang dirancang khusus untuk menjadi **"Onboarding Buddy"** bagi karyawan baru. Proyek ini dibangun menggunakan **Langflow** dengan arsitektur *Retrieval-Augmented Generation* (RAG) untuk membaca dan menjawab pertanyaan berdasarkan dokumen internal perusahaan (SOP/Panduan HR).
 
@@ -40,8 +41,7 @@ Sistem ini menggunakan *system prompt* khusus untuk memastikan kualitas jawaban:
 > "Anda berperan sebagai Onboarding Buddy bagi karyawan baru di perusahaan... Berdasarkan konteks di atas, jawab pertanyaan sebagai Buddy yang suportif, proaktif, dan profesional. Berikan arahan yang jelas dan praktis, jelaskan langkah yang harus dilakukan karyawan baru, tawarkan bantuan atau dukungan lanjutan, dan gunakan bahasa yang ramah namun tetap profesional."
 
 ## 📸 Tampilan Alur Kerja (Screenshot)
-<img width="1068" height="672" alt="image" src="https://github.com/user-attachments/assets/26b1b77a-b926-4ed8-88af-122e3c197700" />
-
+<img width="1747" height="581" alt="image" src="https://github.com/user-attachments/assets/fa06b999-68fd-48aa-90ac-fa8098ea6b3e" />
 
 ## ⚙️ Cara Menjalankan Proyek Ini
 Jika Anda ingin mencoba menjalankan alur ini di lingkungan lokal atau cloud Anda:
