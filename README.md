@@ -40,7 +40,8 @@ Sistem ini menggunakan *system prompt* khusus untuk memastikan kualitas jawaban:
 > "Anda berperan sebagai Onboarding Buddy bagi karyawan baru di perusahaan... Berdasarkan konteks di atas, jawab pertanyaan sebagai Buddy yang suportif, proaktif, dan profesional. Berikan arahan yang jelas dan praktis, jelaskan langkah yang harus dilakukan karyawan baru, tawarkan bantuan atau dukungan lanjutan, dan gunakan bahasa yang ramah namun tetap profesional."
 
 ## 📸 Tampilan Alur Kerja (Screenshot)
-*(Silakan tambahkan gambar screenshot dari canvas Langflow Anda di sini. Anda bisa melakukan drag-and-drop gambar ke dalam editor GitHub.)*
+<img width="1068" height="672" alt="image" src="https://github.com/user-attachments/assets/26b1b77a-b926-4ed8-88af-122e3c197700" />
+
 
 ## ⚙️ Cara Menjalankan Proyek Ini
 Jika Anda ingin mencoba menjalankan alur ini di lingkungan lokal atau cloud Anda:
